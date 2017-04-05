@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "graphql-tag": "*",
+    "vue-apollo": "*",
+    "apollo-client": "*",
+    "subscriptions-transport-ws": "*",
     "vue": "*"
   },
   "devDependencies": {
