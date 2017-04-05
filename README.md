@@ -19,6 +19,7 @@ for each folder: **test-client** and **test-server** perform separate installati
 ```
 $ cd <folder-name>
 $ npm i
+$ npm run dev
 ```
 
 ## Tutorials 

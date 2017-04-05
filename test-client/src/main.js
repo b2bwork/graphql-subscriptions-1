@@ -11,7 +11,7 @@ const networkInterface = createNetworkInterface({
 })
 
 // Create the subscription websocket client
-const wsClient = new SubscriptionClient('ws://localhost:5000/subscriptions', {
+const wsClient = new SubscriptionClient('ws://localhost:3000/subscriptions', {
     reconnect: true,
 })
 
