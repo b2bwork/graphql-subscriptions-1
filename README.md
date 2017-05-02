@@ -38,5 +38,4 @@ $ npm run dev
 ```
 
 ## Tutorials 
-- <img src="https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico" alt="icon" width="15" height="15"/>  [Engish](https://medium.com/marcius-corp/tutorial-graphql-subscriptions-for-real-time-app-96901e4d8258)
-- <img src="https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico" alt="icon" width="15" height="15"/>  [Русский](https://medium.com/marcius-corp/tutorial-graphql-subscriptions-ru-3e75153441e4)
+- <img src="https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico" alt="icon" width="15" height="15"/>  [Tutorial: GraphQL subscriptions for real-time app](https://medium.com/marcius-corp/tutorial-graphql-subscriptions-for-real-time-app-96901e4d8258)
